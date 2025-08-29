@@ -1,3 +1,5 @@
+> This is a fork of the original project [ECGProject](https://github.com/HariK-ECE/ECGProject), developed collaboratively as part of our group work.
+
 ## 🫀 MIT-BIH ECG Preprocessing Project
 
 Welcome to my ECG signal preprocessing project using the MIT-BIH Arrhythmia dataset.  
